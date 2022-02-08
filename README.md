@@ -41,12 +41,12 @@ Below is the roadmap for ep0_lessonPlan's community for __Free Energy Generation
 * b1community: Detailed Project Roadmap Deployed [YYYY/MM/DD]
 * b2media: Content Marketing Plan Deployed [YYYY/MM/DD]
 * b3now: Fundraising Campaign Deployed [YYYY/MM/DD]
-* b4portfolio: Decentralized Marketplace Deployed [YYYY/MM/DD]
+* b4portfolio: NFTutorial Marketplace Deployed [YYYY/MM/DD]
 * b5essay: Project Litepaper Deployed [YYYY/MM/DD]
-* b6story: Storyboard for Open Source Mythology Deployed [YYYY/MM/DD]
+* b6story: Mythology Storyboard Deployed [YYYY/MM/DD]
 * b7learn: Documentation Deployed [YYYY/MM/DD]
 * b8play: Community Game Proposal Deployed [YYYY/MM/DD]
-* b9journal: epicPlaylist Process Tracking [Ongoing]
+* b9journal: DAO Design & Development Tracking [Ongoing]
 
 ### gr1v3song
 
