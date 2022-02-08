@@ -36,7 +36,7 @@ __The Enigma Portal__ will use the __NFTutorial Marketplaces__ to support the de
 
 ### gr1v2time
 
-Below is the roadmap for ep0_lessonPlan's community for __Free Energy Generation__ projects that __secure the bitcoin network__:
+Below is the roadmap for __The Enigma Portal__'s community for __Free Energy Generation__ projects that __secure the bitcoin network__:
 * b0mission: Open Source Mission Deployed [YYYY/MM/DD]
 * b1community: Detailed Project Roadmap Deployed [YYYY/MM/DD]
 * b2media: Content Marketing Plan Deployed [YYYY/MM/DD]
@@ -71,7 +71,7 @@ This section will become populated when the __b1community__ is deployed.
 
 ### gr2v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce __The Enigma Portal__'s community.
 
 ### b2media Proof-of-Work
 Click Here to view the __TBD__ that represents __b2media__ for  __The Enigma Portal__.
@@ -204,4 +204,4 @@ Click Here to view the __TBD__ that represents __bplay__ for __The Enigma Portal
 
 # b9journal
 
-This repository records the growth of ep0_lessonPlan.
+This repository records the growth of __The Enigma Portal__.
