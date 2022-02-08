@@ -1,7 +1,7 @@
 #### The School of Bitcoin | Stacks Australia
-# DAO: Enigma Portal
+# DAO (playlist): Enigma Portal
 
-Below are the steps The School of Bitcoin is taking to document our creation of the __Stacks Australia DAO__ --- __The Enigma Portal__.
+Below are the steps The School of Bitcoin is taking to document our creation of __Stacks Australia__: __The Enigma Portal__.
 
 # b0mission
 
@@ -53,7 +53,7 @@ Below is the roadmap for ep0_lessonPlan's community for __Free Energy Generation
 __SongName__ by __SongArtist__ will introduce __The Enigma Portal__'s community.
 
 ### b1comminity Proof-of-Work
-Click Here to view the detailed roadmap that represents b1community for ep0_lessonPlan.
+Click Here to view the detailed roadmap that represents b1community for  __The Enigma Portal__.
 
 # b2media
 
@@ -74,133 +74,133 @@ This section will become populated when the __b1community__ is deployed.
 __SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
 
 ### b2media Proof-of-Work
-Click Here to view the __TBD__ that represents __b2media__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b2media__ for  __The Enigma Portal__.
 
 # b3now
 
 ### gr3v0shadow
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr3v1presence
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr3v2music
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr3v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+This section will populate when __b1community__ is deployed.
 
 ### b3now Proof-of-Work
-Click Here to view the __TBD__ that represents __b3now__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b3now__ for  __The Enigma Portal__.
 
 # b4portfolio
 
 ### gr4v0create
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr4v1habit
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr4v2wealth
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr4v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce  __The Enigma Portal__'s community.
 
 ### b4portfolio Proof-of-Work
-Click Here to view the __TBD__ that represents __b4portfolio__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b4portfolio__ for  __The Enigma Portal__.
 
 # b5essay
 
 ### gr5v0belief
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr5v1science
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr5v2sensemaking
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr5v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce  __The Enigma Portal__'s community.
 
 ### b5essay Proof-of-Work
-Click Here to view the __TBD__ that represents __b5essay__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b5essay__ for __The Enigma Portal__.
 
 # b6story
 
 ### gr6v0mythology
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr6v1spirituality
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr6v2consciousness
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr6v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce  __The Enigma Portal__'s community.
 
 ### b6story Proof-of-Work
-Click Here to view the __TBD__ that represents __b6story__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b6story__ for __The Enigma Portal__.
 
 # b7learn
 
 ### gr7v0ecology
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr7v1physiology
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr7v2sociology
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr7v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce  __The Enigma Portal__'s community.
 
 ### b7learn Proof-of-Work
-Click Here to view the __TBD__ that represents __b7learn__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __b7learn__ for __The Enigma Portal__.
 
 # b8play
 
 ### gr8v0values
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr8v1vision
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr8v2game
 
-This section will become populated when the __b1community__ is deployed.
+This section will populate when __b1community__ is deployed.
 
 ### gr8v3song
 
-__SongName__ by __SongArtist__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce  __The Enigma Portal__'s community.
 
 ### b8play Proof-of-Work
-Click Here to view the __TBD__ that represents __bplay__ for ep0_lessonPlan.
+Click Here to view the __TBD__ that represents __bplay__ for __The Enigma Portal__.
 
 # b9journal
 
