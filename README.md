@@ -28,15 +28,15 @@ Click Here to view the values that represent b0mission for __The Enigma Portal__
 
 ### gr1v0decentralization
 
-__The Enigma Portal__ is helping to decentralize the __Human Resources__ industry by supporting the growth of __myPlaylist Protocol__ inspired by __water__ and __Proof-of-Work Systems__. We will use __Substrate (Parity)__ to develop the idea.
+__The Enigma Portal__ is helping to decentralize the __Education__ industry by supporting the growth of __NFTutorial Marketplaces__ inspired by __leafcutter ants__ and __Proof-of-Work Systems__. We will use __Clarity (Stacks)__ to develop the idea.
 
 ### gr1v1space
 
-ep0_lessonPlan will use the __myPlaylist Protocol__ to support the design and development of __groundwater recharge__ projects that __restore The Planet's soil__.
+__The Enigma Portal__ will use the __NFTutorial Marketplaces__ to support the design and development of __Free Energy Generation__ projects that __secure the bitcoin network__.
 
 ### gr1v2time
 
-Below is the roadmap for ep0_lessonPlan's community for __groundwater recharge__ projects that __restore The Planet's soil__:
+Below is the roadmap for ep0_lessonPlan's community for __Free Energy Generation__ projects that __secure the bitcoin network__:
 * b0mission: Open Source Mission Deployed [YYYY/MM/DD]
 * b1community: Detailed Project Roadmap Deployed [YYYY/MM/DD]
 * b2media: Content Marketing Plan Deployed [YYYY/MM/DD]
@@ -50,7 +50,7 @@ Below is the roadmap for ep0_lessonPlan's community for __groundwater recharge__
 
 ### gr1v3song
 
-__Mirage__ by __Toro y Moi__ will introduce ep0_lessonPlan's community.
+__SongName__ by __SongArtist__ will introduce __The Enigma Portal__'s community.
 
 ### b1comminity Proof-of-Work
 Click Here to view the detailed roadmap that represents b1community for ep0_lessonPlan.
