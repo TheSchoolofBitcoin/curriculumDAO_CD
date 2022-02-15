@@ -1,5 +1,5 @@
 #### The School of Bitcoin | Stacks Australia
-# DAO (playlist): Enigma Portal
+# DAO: Enigma Portal
 
 Below are the steps The School of Bitcoin is taking to document our creation of __Stacks Australia__: __The Enigma Portal__.
 
