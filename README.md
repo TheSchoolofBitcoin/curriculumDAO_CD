@@ -19,17 +19,17 @@ Austrailia's Education System
 Develop the Bit Entry curriculumDAO as an acceible bridge between the existing education system to web3 with financial literacy. The values in the API below represents the metadata/proof-of-work for the conceptual design (CD) of The Bit Entry Program's curriculumDAO. To create a conceptual design for your own financial literacy course or program, please fork this repository and input your own values. We are currently working on clear documentation that will help you with every step in creating your DAO.
 
 TSOBTC is committed to a transparent process for creating this cirriculumDAO. Each GitHub issue will cover all of the information needed to populate the CD metadata for TSOBTC's Bit Entry Program Curriculum DAO. You can follow the same process for your own DAO's conceptual design.
-- Project Tracker: Curriculum DAO Concept Design
-- b0mission: [link to issue]
-- b1community: [link to issue]
-- b2media: [link to issue]
-- b3now: [link to issue]
-- b4portfolio: [link to issue]
-- b5essay: [link to issue]
-- b6story: [link to issue]
-- b7learn: [link to issue]
-- b8play: [link to issue]
-- b9journal: [link to issue]
+- Project Tracker: Curriculum DAO Concept Design (https://github.com/orgs/TheSchoolofBitcoin/projects/1)
+- b0mission: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/3
+- b1community: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/4
+- b2media: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/5
+- b3now: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/6
+- b4portfolio: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/7
+- b5essay: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/8
+- b6story: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/9
+- b7learn: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/10
+- b8play: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/11
+- b9journal: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/12
 
 ### End Result
 After working through each of these issues, we will have a Stacks NFT Minting dApp that allows people to mint the NFT associated with this course designed by a member from the bitcoin.design community. The metadata below represents the NFT's proof-of-work.
