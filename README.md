@@ -28,6 +28,9 @@ TSOBTC is committed to open sourcing our process for creating this cirriculum DA
 - b8play: [link to issue]
 - b9journal: [link to issue]
 
+### End Result
+After working through each of these issues, we will have a Stacks NFT Minting dApp that allows people to mint the NFT associated with this course designed by a member from the bitcoin.design community.
+
 ```
 bitEntryProgram: {
   ourStoryRecordStore:               "432API",
