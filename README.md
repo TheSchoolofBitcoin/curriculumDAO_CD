@@ -2,7 +2,7 @@
 #### The School of Bitcoin | Stacks AUS/NZ
 
 ```
-Fork this repository to create a conceptual design for your own curriculumDAO.
+(Still in development) Fork this repository to create a conceptual design for your own curriculumDAO.
 ```
 
 The School of Bitcoin is creating Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAES will be marked by the project based learning subDAOs that the community creates (curriculumDAOs). You can think of TSOBTC DAES as a organism/universe and each curriculumDAO as an organ/galaxy.
