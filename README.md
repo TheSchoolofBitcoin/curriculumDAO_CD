@@ -1,7 +1,7 @@
 #### The School of Bitcoin | TSOBTC Stacks AUS
 
 ```
-Create a fork of this repository to create a conceptual design for your financial literacy DAO.
+Fork this repository to create a conceptual design for your financial literacy DAO.
 ```
 
 The School of Bitcoin is creating a DAO focused on creating a Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAO will be marked by the curriculum DAOs we create. Each curriculum is designed as a DAO because their underlying cryptoeconomic protocols will help reinforce the financial principles being learned.
@@ -18,47 +18,47 @@ Develop the Stacks Australia/NZ DAO as an acceible bridge between the existing e
 bitEntryProgram: {
   ourStoryRecordStore:               "432API",
   bioMemeticOrganization:            "The School of Bitcoin",
-  longPlay:                          "lp0_polymathProcess",
+  longPlay:                          "Stacks Australia/New Zealand",
   b0mission: {
     groove:                          "gr0ourSource",
     gr0v0ego: {
       institutionQuestion:           "What global institution will you explore?"
-      institution:                   "language",
+      institution:                   "[INSTITUTION]",
 
       challengeQuestion:             "What challenge does this institution create?"
-      challenge:                     "polarization",
+      challenge:                     "[CHALLENGE]",
 
-      egoQuestion:                   "What human trait do you think is contributing to this challenge?"
-      ego:                           "fear",
+      egoQuestion:                   "What human trait contributes to this challenge?"
+      ego:                           "[EGO]",
 
-      bookEgoQuestion:               “What book will represent this epicPlaylist’s persona?”,
-      bookEgoTitle:                  "A New Earth: Awakening to Your Life's Purpose",
-      bookEgoAuthor:                 "Eckhart Tolle",
+      bookEgoQuestion:               “What book will represent how this book explores this challenge?”,
+      bookEgoTitle:                  "[BOOK_EGO_TITLE]",
+      bookEgoAuthor:                 "[BOOK_EGO_AUTHOR]",
 
-      gr0v0Output:                   "The Planet's __language__ institution is allowing egoic __fear__ to contribute to the universal challenge of __polarization__. We learn from __A New Earth: Awakening to Your Life's Purpose__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego."
+      gr0v0Statement:                "Our __[INSTITUTION]__ institution is letting __[EGO]__ contribute to __[CHALLENGE]__. This Curriculum DAO uses __[BOOK_EGO_TITLE]__ by __[BOOK_EGO_AUTHOR]__ to understand our community's challenges."
     },
     gr0v1biomimicry: {
       natureMentorQuestion:          "What system in nature can use the challenge to create a benefit?",
-      natureMentor:                  "cells",
+      natureMentor:                  "[NATURE_MENTOR]",
       
       mentorBenefitQuestion:         "What benefit does the system in nature create from the challenge?,
-      mentorBenefit:                 "growth",
+      mentorBenefit:                 "[MENTOR_BENEFIT]",
       
-      bookBioQuestion:               "What book will represent
-      bookBioTitle:                  "Tao Te Ching",
-      bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)",
-      gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges."
+      bookBioQuestion:               "What book will help explore the system in nature?",
+      bookBioTitle:                  "[BOOK_BIO_TITLE]",
+      bookBioAuthor:                 "[BOOK_BIO_AUTHOR]",
+      gr0v1Statement:                "__[NATURE_MENTOR]__ use __[CHALLENGE]__ to create __[MENTOR_BENEFIT]__. We learn from __[BOOK_BIO_TITLE]__ by __[BOOK_BIO_AUTHOR]__ to think of creative solutions to our challenges."
     },
     gr0v2willpower: {
-      goal:                          “
-      bookWillTitle:                 "The Polymath: Unlocking the Power of Human Versatility",
-      bookWillAuthor:                "Waqas Ahmed",
-      gr0v2Output:                   "We are developing an open source game that learns from __cells__ so we can create __growth__ through __polarization__. We learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate."
+      bookWillQuestion:              “What book will define how your community operates?",
+      bookWillTitle:                 "[BOOK_WILL_TITLE]",
+      bookWillAuthor:                "[BOOK_WILL_AUTHOR]",
+      gr0v2Statement:                "We are developing a Curridulum DAO that learns from __[NATURE_MENTOR]__ so we can create __[MENTOR_BENEFIT]__ through __[CHALLENGE]__. We learn from __[BOOK_WILL_TITLE]__ by __[BOOK_WILL_AUTHOR]__ to help define how we operate."
     },
     gr0v3song: {
-      songTitle:                     "0.00",
-      songArtist:                    "Childish Gambino",
-      gr0v3song:                     "__0.00__ by __Childish Gambino__ represents our project's mission."
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      gr0v3song:                     "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's mission statements."
     }
   },
   b1community: {
