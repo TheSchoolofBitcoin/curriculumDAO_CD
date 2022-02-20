@@ -5,17 +5,20 @@
 Fork this repository to create a conceptual design for your own curriculumDAO.
 ```
 
-The School of Bitcoin is creating a DAO focused on creating a Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAO will be marked by the curriculum DAOs we create. Each curriculum is designed as a DAO because their underlying cryptoeconomic protocols will help reinforce the financial principles being learned.
+The School of Bitcoin is creating Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAES will be marked by the project based learning subDAOs that the community creates (curriculumDAOs). You can think of TSOBTC DAES as a organism/universe and each curriculumDAO as an organ/galaxy.
 
-TSOBTC's first curriculum DAO, The Bit Entry Program, is focused on creating a base curriculum for Bitcoin and the new wave of crypto that is emerging. The Bit Entry Program is a project from TSOBTC's Stacks Australia chapter.  
+TSOBTC STX AUS/NZ's first curriculumDAO, The Bit Entry Program, is focused on creating a base curriculum for Bitcoin and the new wave of crypto that is emerging. 
 
 ### Challenge
-According to new research by Finder, "A nationally representative survey of 1,013 respondents revealed almost half of Australians (46%) wished they'd learnt how to invest during their time at school, while 44% wish they'd learnt how to manage their money." Thiand will serve as an example for how people can create financial literacy DAOs catered to their own community.
+According to new research by Finder, "A nationally representative survey of 1,013 respondents revealed almost half of Australians (46%) wished they'd learnt how to invest during their time at school, while 44% wish they'd learnt how to manage their money." This will serve as an example for how people can create financial literacy DAOs catered to their own communities.
+
+### Focus
+Austrailia's Education System
 
 ### Proposed Solution
-Develop the Stacks Australia/NZ DAO as an acceible bridge between the existing education system to web3 with an introduction to financial literacy. The values in the API below represents the metadata/proof-of-work for The Bit Entry Program's DAO Conceptual Design. To create a conceptual design for your own financial literacy course or program, please fork this repository and your own values. We are currently working on clear documentation that will help you with every step in creating your DAO.
+Develop the Bit Entry curriculumDAO as an acceible bridge between the existing education system to web3 with financial literacy. The values in the API below represents the metadata/proof-of-work for the conceptual design (CD) of The Bit Entry Program's curriculumDAO. To create a conceptual design for your own financial literacy course or program, please fork this repository and input your own values. We are currently working on clear documentation that will help you with every step in creating your DAO.
 
-TSOBTC is committed to open sourcing our process for creating this cirriculum DAO. Each GitHub issue will cover all of the information needed to populate the concept design metadata for TSOBTC's Bit Entry Program Curriculum DAO. You can follow the same process for your own DAO's conceptual design.
+TSOBTC is committed to a transparent process for creating this cirriculumDAO. Each GitHub issue will cover all of the information needed to populate the CD metadata for TSOBTC's Bit Entry Program Curriculum DAO. You can follow the same process for your own DAO's conceptual design.
 - Project Tracker: Curriculum DAO Concept Design
 - b0mission: [link to issue]
 - b1community: [link to issue]
@@ -29,7 +32,7 @@ TSOBTC is committed to open sourcing our process for creating this cirriculum DA
 - b9journal: [link to issue]
 
 ### End Result
-After working through each of these issues, we will have a Stacks NFT Minting dApp that allows people to mint the NFT associated with this course designed by a member from the bitcoin.design community.
+After working through each of these issues, we will have a Stacks NFT Minting dApp that allows people to mint the NFT associated with this course designed by a member from the bitcoin.design community. The metadata below represents the NFT's proof-of-work.
 
 ```
 bitEntryProgram: {
