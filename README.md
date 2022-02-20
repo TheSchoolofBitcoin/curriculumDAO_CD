@@ -6,7 +6,7 @@ Fork this repository to create a conceptual design for your financial literacy D
 
 The School of Bitcoin is creating a DAO focused on creating a Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAO will be marked by the curriculum DAOs we create. Each curriculum is designed as a DAO because their underlying cryptoeconomic protocols will help reinforce the financial principles being learned.
 
-TSOBTC's first curriculum DAO, The Bit Entry Program, is focused on creating a base curriculum for Bitcoin and the new wave of crypto that is emerging. The Bit Entry program is a program from TSOBTC's Stacks Australia chapter.  
+TSOBTC's first curriculum DAO, The Bit Entry Program, is focused on creating a base curriculum for Bitcoin and the new wave of crypto that is emerging. The Bit Entry Program is a project from TSOBTC's Stacks Australia chapter.  
 
 ### Challenge
 According to new research by Finder, "A nationally representative survey of 1,013 respondents revealed almost half of Australians (46%) wished they'd learnt how to invest during their time at school, while 44% wish they'd learnt how to manage their money." Thiand will serve as an example for how people can create financial literacy DAOs catered to their own community.
@@ -21,6 +21,7 @@ bitEntryProgram: {
   longPlay:                          "Stacks Australia/New Zealand",
   b0mission: {
     groove:                          "gr0ourSource",
+    projectFocus:                    "goals",
     gr0v0ego: {
       institutionQuestion:           "What global institution will you explore?"
       institution:                   "[INSTITUTION]",
@@ -47,99 +48,106 @@ bitEntryProgram: {
       bookBioQuestion:               "What book will help explore the system in nature?",
       bookBioTitle:                  "[BOOK_BIO_TITLE]",
       bookBioAuthor:                 "[BOOK_BIO_AUTHOR]",
+      
       gr0v1Statement:                "__[NATURE_MENTOR]__ use __[CHALLENGE]__ to create __[MENTOR_BENEFIT]__. We learn from __[BOOK_BIO_TITLE]__ by __[BOOK_BIO_AUTHOR]__ to think of creative solutions to our challenges."
     },
     gr0v2willpower: {
       bookWillQuestion:              “What book will define how your community operates?",
       bookWillTitle:                 "[BOOK_WILL_TITLE]",
       bookWillAuthor:                "[BOOK_WILL_AUTHOR]",
+      
       gr0v2Statement:                "We are developing a Curridulum DAO that learns from __[NATURE_MENTOR]__ so we can create __[MENTOR_BENEFIT]__ through __[CHALLENGE]__. We learn from __[BOOK_WILL_TITLE]__ by __[BOOK_WILL_AUTHOR]__ to help define how we operate."
     },
     gr0v3song: {
       songTitle:                     "[SONG_TITLE]",
       songArtist:                    "[SONG_ARTIST]",
-      gr0v3song:                     "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's mission statements."
+      
+      gr0v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's goals."
     }
   },
+  
   b1community: {
     groove:                          “gr1ourJourney”,
+    projectFocus:                    "Community Roadmap",
     gr1v0decentralization: {
-      industry:                      "Human Resources",
-      service:                       "onboarding protocol",
-      focus:                         "432API",
-      serviceInspiration:            "Substrate",
-      serviceInspiractionURL:        "https://substrate.io"
+      industry:                      "Education",
+      service:                       "base curriculum for crypto",
+      focus:                         "Bit Entry Program",
+      serviceInspiration:            "[SERVICE_INSPIRATION]",
+      serviceInspiractionURL:        "[SERVICE_INSPIRATION_URL]"
     },
     gr1v1space: {
-      communityProject:              "Groundwater Recharge Projects",
-      communityProjectExampleURL:    "https://youtu.be/SbSmjzj9K94",
-      promotedProject:               "Parley for the Oceans",
-      promotedProjectURL:            "https://www.parley.tv/"
+      communityProject:              "[COMMUNITY_PROJECT]",
+      communityProjectExampleURL:    "[COMMUNITY_PROJECT_EXAMPLE_URL]",
+      promotedProject:               "[PROMOTED_PROJECT]",
+      promotedProjectURL:            "[PROMOTED_PROJECT_URL]"
     },
     gr1v2time: {
       b0mission: {
         deliverableFormat:           “Open Source Mission: Concept Design”,
-        deliverableDate:             “2022 02 15”
-        deliverableURL:              “https://twitter.com/PolymathProcess/status/1493657072126332933",
-        deliverablePOW:              “[link to b0mission folder on GitHub]”
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b1community: {
         deliverableFormat:           “Open Source Community: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b1community folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b2media: {
         deliverableFormat:           “Brand Identity: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b2media folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b3now: {
         deliverableFormat:           “Marketing Strategy: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b3now folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b4portfolio: {
         deliverableFormat:           “Marketplace: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b4portfolio folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b5essay: {
         deliverableFormat:           “Litepaper: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b5essay folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b6story: {
         deliverableFormat:           “Storyboard: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b6story folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b7learn: {
         deliverableFormat:           “Curriculum: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b7learn folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b8play: {
         deliverableFormat:           “Community Game: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b8play folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
       b9journal: {
         deliverableFormat:           “Note Taking Strategy: Concept Design”,
         deliverableDate:             “YYYY MM DD”
-        deliverableURL:              “TBD”
-        deliverablePOW:              “[link to b9journal folder on GitHub]”
+        deliverableURL:              “[DELIVERABLE_URL]",
+        deliverablePOWURL:           “[DELIVERABLE_POW_URL]”
       },
     gr1v3song: {
-      songTitle:                     "Mirage",
-      songArtist:                    "Toro y Moi"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr1v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's community roadmap."
     }
   },
   b2media: {
@@ -153,30 +161,27 @@ bitEntryProgram: {
     
     },
     gr2v3song: {
-      songTitle:                     "Permission To Love",
-      songArtist:                    "Hayden James"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr2v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's brand identity."
     }
   },
   b3now: {
     gr3v0shadow: {
-      focus:                         "censorship",
-      audio:                         "Various Artists (Comedians)",
-      video:                         "Storms"
+      
     },
     gr3v1presence: {
-      focus:                         "empathy",
-      audio:                         "Heart Minded by Sarah Blondin",
-      video:                         "soil"
+     
     },
     gr3v2music: {
-      focus:                         "schuman resonance",
-      audio:                         "Various Artists (solfeggio frequencies)",
-      video:                         "water",
-      marketingSchedule:             “[link to b3now folder]”
+      
     },
     gr3v3song: {
-      songTitle:                     "Japanese Ceremonial Tea (Interlude)",
-      songArtist:                    "The Electric Sons"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr2v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's marketing strategy."
     }
   },
   b4portfolio: {
@@ -194,8 +199,10 @@ bitEntryProgram: {
       freelancerPayoutTarget:        “$27,750/month”
     },
     gr4v3song: {
-      songTitle:                     "They Say I'm Different",
-      songArtist:                    "Betty Davis"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr4v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's value proposition."
     }
   },
   b5essay: {
@@ -209,30 +216,27 @@ bitEntryProgram: {
     
     },
     gr5v3song: {
-      songTitle:                     "Free Spirit",
-      songArtist:                    "Spiritual Tony"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr5v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's litepaper."
     }
   },
   b6story: {
     gr6v0mythology: {
-      videoInspiration:              "Imitation Game (Movie)",
-      treeSystemFeminine:            "Water",
-      personaFeminine:               "Katherine G. Johnson",
-      treeSystemMasculine:           "Soil",
-      personaMasculine:              "Alan Turing",
-      humanSystem:                   "Stem Cell",
-      personaHuman:                  "Shuri from Black Panther"
+      
     },
     gr6v1spirituality: {
-      videoInspiration:              "Initiation S1E1: Unity",
-      cartoonInspiration:            "Looney Toons"
+      
     },
     gr6v2consciousness: {
-      videoInspiration:              "Mystery Teachings S1E1: Consciousness in the Quantum Paradigm",
+      
     },
     gr6v3song: {
-      songTitle:                     "Generationwhy",
-      songArtist:                    "ZHU"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr6v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's mythology."
     }
   },
   b7learn: {
@@ -246,8 +250,10 @@ bitEntryProgram: {
     
     },
     gr7v3song: {
-      songTitle:                     "Canopee",
-      songArtist:                    "Polo & Pan"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr7v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's curriculum."
     }
   },
   b8play: {
@@ -261,14 +267,14 @@ bitEntryProgram: {
     
     },
     gr8v3song: {
-      songTitle:                     "Backroads",
-      songArtist:                    "Tall Tall Trees"
+      songTitle:                     "[SONG_TITLE]",
+      songArtist:                    "[SONG_ARTIST]",
+      
+      gr8v3Statement:                "__[SONG_TITLE]__ by __[SONG_ARTIST]__ represents our project's community game."
     }
   },
   b9journal: {
-    gr7v0ecology: {
     
-    }
   },
 }
 ```
