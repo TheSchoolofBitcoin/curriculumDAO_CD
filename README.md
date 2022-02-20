@@ -14,6 +14,19 @@ According to new research by Finder, "A nationally representative survey of 1,01
 ### Proposed Solution
 Develop the Stacks Australia/NZ DAO as an acceible bridge between the existing education system to web3 with an introduction to financial literacy. The values in the API below represents the metadata/proof-of-work for The Bit Entry Program's DAO Conceptual Design. To create a conceptual design for your own financial literacy course or program, please fork this repository and your own values. We are currently working on clear documentation that will help you with every step in creating your DAO.
 
+TSOBTC is committed to open sourcing our process for creating this cirriculum DAO. Each GitHub issue will cover all of the information needed to populate the concept design metadata for TSOBTC's Bit Entry Program Curriculum DAO. You can follow the same process for your own DAO's conceptual design.
+- Project Tracker: Curriculum DAO Concept Design
+- b0mission: [link to issue]
+- b1community: [link to issue]
+- b2media: [link to issue]
+- b3now: [link to issue]
+- b4portfolio: [link to issue]
+- b5essay: [link to issue]
+- b6story: [link to issue]
+- b7learn: [link to issue]
+- b8play: [link to issue]
+- b9journal: [link to issue]
+
 ```
 bitEntryProgram: {
   ourStoryRecordStore:               "432API",
@@ -186,17 +199,16 @@ bitEntryProgram: {
   },
   b4portfolio: {
     gr4v0create: {
-      beatDrop:                      “10 section open source community conceptual design”,
-      
+      /// This section defines the structure of the case studies the Curriculum DAO will create to update the community ///
     },
     gr4v1habit: {
-      habit_1:                        “1 d per week”,
-      habit_2:                        “link to b4portfolio folder on GitHub”
+      /// This section defines the content schedule (strategy is b3now) across social media. Also schedule for case study updates. ///
     },
     gr4v2wealth: {
-      wealthGenerationTarget:        “$39,600/month”,
-      communityInvestmentTarget:     “$11,850/month”,
-      freelancerPayoutTarget:        “$27,750/month”
+      /// This section defines the wealth generation targets as a result of the conceptual tokenomics design. ///
+      wealthGenerationTarget:        “ ”,
+      communityInvestmentTarget:     “ ”,
+      freelancerPayoutTarget:        “ ”
     },
     gr4v3song: {
       songTitle:                     "[SONG_TITLE]",
@@ -207,13 +219,13 @@ bitEntryProgram: {
   },
   b5essay: {
     gr5v0belief: {
-    
+      /// Section of the litepaper that defines the basis for the projects belief that this Curriculum DAO will help with the defined challenge ///
     },
     gr5v1science: {
-    
+      /// Section of the litepaper that outlines the scientific process used to design the Curriculum DAO case study experiments ///
     },
     gr5v2sensemaking: {
-    
+      /// Section of the litepaper that outlines current biases and counter arguments with evidence to create a more balanced perspective for the challenge. ///
     },
     gr5v3song: {
       songTitle:                     "[SONG_TITLE]",
@@ -224,13 +236,13 @@ bitEntryProgram: {
   },
   b6story: {
     gr6v0mythology: {
-      
+      /// Define how the litepaper will be transformed into an imaginative myth (comic/graphic novel/short stories/etc.) and the narratives story arch ///
     },
     gr6v1spirituality: {
-      
+      /// Moral of the creative story for the protagonist (Curriculum DAO). These are related to the results of the experiments from gr5v1science ///
     },
     gr6v2consciousness: {
-      
+      /// Moral of the creative story for the institution defined in b0mission  ///
     },
     gr6v3song: {
       songTitle:                     "[SONG_TITLE]",
@@ -241,13 +253,13 @@ bitEntryProgram: {
   },
   b7learn: {
     gr7v0ecology: {
-    
+      /// Didactic financial literacy course through an ecological lens  ///
     },
     gr7v1physiology: {
-    
+      /// Didactic financial literacy course through an physiological lens  ///
     },
     gr7v2sociology: {
-    
+      /// Didactic financial literacy course through an sociological lens  ///
     },
     gr7v3song: {
       songTitle:                     "[SONG_TITLE]",
@@ -258,13 +270,13 @@ bitEntryProgram: {
   },
   b8play: {
     gr8v0values: {
-    
+      /// Define rules of the community game  ///
     },
     gr8v1vision: {
-    
+      /// Define the intended outcomes of the game  ///
     },
     gr8v3game: {
-    
+      /// Design, develop, and deploy the game  ///
     },
     gr8v3song: {
       songTitle:                     "[SONG_TITLE]",
@@ -274,7 +286,7 @@ bitEntryProgram: {
     }
   },
   b9journal: {
-    
+    /// This repository represents journal to serve as the proof-of-work for this Curriculum DAOs NFT  ///
   },
 }
 ```
