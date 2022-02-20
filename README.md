@@ -1,8 +1,8 @@
-# CurriculumDAO Conceptual Design (CD)
-#### The School of Bitcoin | TSOBTC Stacks AUS
+# curriculumDAO Conceptual Design (CD)
+#### The School of Bitcoin | Stacks AUS/NZ
 
 ```
-Fork this repository to create a conceptual design for your financial literacy DAO.
+Fork this repository to create a conceptual design for your own curriculumDAO.
 ```
 
 The School of Bitcoin is creating a DAO focused on creating a Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAO will be marked by the curriculum DAOs we create. Each curriculum is designed as a DAO because their underlying cryptoeconomic protocols will help reinforce the financial principles being learned.
